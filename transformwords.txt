@@ -1,0 +1,6 @@
+tent,gain
+rain,hard
+stun,bolt
+flow,shod
+boss,zest
+curb,harp
